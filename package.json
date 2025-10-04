@@ -1,7 +1,7 @@
 {
-  "name": "Arslan-MD",
+  "name": "GODZE-XMD",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By ArslanMD Official",
+  "description": "A WhatsApp Bot Created By MALDINI EL CAPITANO Official",
   "main": "start.js",
   "scripts": {
     "start": "pm2 start start.js --deep-monitoring --attach --name Arslan-MD",
